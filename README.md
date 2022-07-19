@@ -12,7 +12,7 @@ Authors : Pranav Kumar Singh, Roshan Singh, Sunit Nandi, Kayhan Z Ghafoor, Danda
 
 Direct your queries regarding the code and paper to : roshansingh3000@gmail.com 
 
-# Cite our work as
+### Cite our work as
 > @article{singh2020blockchain,
   title={Blockchain-based adaptive trust management in internet of vehicles using smart contract},
   author={Singh, Pranav Kumar and Singh, Roshan and Nandi, Sunit Kumar and Ghafoor, Kayhan Zrar and Rawat, Danda B and Nandi, Sukumar},
